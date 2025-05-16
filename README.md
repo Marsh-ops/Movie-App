@@ -1,5 +1,6 @@
-Project Summary – React Movie Favorites App
 ## 🚀 Live Demo - Click here: https://marsh-ops.github.io/Movie-App/
+
+Project Summary – React Movie Favorites App
 
 As part of my learning journey in React development, I followed a YouTube tutorial titled "Build a Movie App with React & TMDB API" by Lama Dev. The project involved building a fully functional movie application using React that allows users to search for movies via The Movie Database (TMDB) API, view details, and manage a personalized list of favorite films using localStorage for persistence.
 
