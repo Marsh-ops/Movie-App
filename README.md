@@ -1,4 +1,5 @@
-## 🚀 Live Demo - Click here: https://marsh-ops.github.io/Movie-App/
+## 🌐 Live Demo
+[Click here to view the live app](https://marsh-ops.github.io/Movie-App/)
 
 Project Summary – React Movie Favorites App
 
