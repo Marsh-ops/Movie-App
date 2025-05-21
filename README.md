@@ -1,8 +1,25 @@
-# React + Vite
+Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Movie App is a React-based web application designed to browse and manage a list of movies using data from The Movie Database (TMDb) API. Users can view popular movies, search for any movie by name, and maintain a personalized list of favorites. The app features smooth user interactions such as adding and removing favorites, and it persists user selections across sessions.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+This project helped me learn how to:
+
+Work with asynchronous API calls to fetch real-time data
+
+Manage React state and props for dynamic UI updates
+
+Implement user event handling for actions like adding/removing favorites
+
+Deploy a React application on GitHub Pages to share publicly
+
+Structure and organize a React project for scalability and maintainability
+
+
+
+You can check out the code and live demo here:
+
+GitHub Repo: https://github.com/Marsh-ops/Movie-App
+
+Live Demo: https://marsh-ops.github.io/Movie-App/
